@@ -1,0 +1,72 @@
+/** 
+  *SCSS btw
+  */
+
+@import url('https://fonts.googleapis.com/css2?family=Geostar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Geostar&family=Uncial+Antiqua&display=swap');
+
+$black: #131E24;
+$green: #87E5AA;
+$purple: #A487C2;
+$surrealblue: #21C;
+$plink: #D6BBD6;
+$purplemkii: #BF39B5;
+$red: #EA0E6C;
+$redmkii: #DF9FD2;
+/*
+ ^^
+//\\
+\\//
+||||
+\\//
+''''
+[][]
+""""
+*/
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: $black;
+  color: $green;
+  font-size: 39px;
+  font-family: Geostar, "Uncial Antiqua", sans-serif;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  height: 100vh; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.display {
+  background-color: $redmkii;
+  box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.5);
+  border-radius: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.drum-pad {
+  background-color: $surrealblue;
+  border: 2px solid #555; 
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  width: 100px;
+  margin: 5px;
+}
+
+/**
+  *The drum machine itself should be a purplish colour, while the keys should be $surrealblue. The letters on the drum machine itself should be $green. 
+@execute funct(name: taskPlayAudio)
+RIP dadrumdrum
+  */
