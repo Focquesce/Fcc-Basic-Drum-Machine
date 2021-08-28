@@ -1,2 +1,2 @@
 # Fcc-Basic-Drum-Machine
-This is a drum machine. A drum machine makes synthetic sounds.
+This is a drum machine. A drum machine is also called a drum pad. And according to my thesaurus, a drum machine/pad is also called a reaper for some reason, which is interesting, considering the fact that REAPER is a digital audio workstation; strange how REAPER was mentioned in a thesaurus... Anyways, a drum machine makes synthetic sounds, and not only synthetic drum sounds. Am I talking too much? Again, does anyone read these? What is the purpose of my existence? Am I acutally writing this, or is an AI doing all of this work?
